@@ -1,0 +1,12 @@
+Quais as tags secundárias utilizadas para estruturar a calculadora.
+R:class;table criar uma lista para os elementos
+class;td cria uma lista para os botoes
+class;tr separar os itens
+
+Quias os elementos em css foram utilizados para alinhar os elementos.
+class;height
+class;align-items
+class;margin
+class;text-align
+
+Qual a função criada no arquivo javascript é responsável por realizar as operações básicas onde fica indentificado as variáveis no código.
